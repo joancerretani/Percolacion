@@ -1,0 +1,4 @@
+El archivo percolacion.c contiene el código con las funciones implementadas como se pidieron en clase,
+sin embargo el código que yo realmente use (por el hecho que lo hice antes de saber que había que respetar cierta estructura)
+Se encuentra dentro de la carpeta "código guías" separando el script que usé para resolver cada uno de los ejercicios.
+
